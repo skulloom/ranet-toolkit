@@ -1,0 +1,13 @@
+# Ranet Toolkit 빌드에 쓴 패키지 (Python 3.10, Windows)
+PySide6==6.11.1
+PyMuPDF==1.27.2.3
+pypdf==6.9.2
+pillow==12.2.0
+requests==2.34.2
+lxml==6.0.2
+pywin32==311
+PyAutoGUI==0.9.54
+pyperclip==1.11.0
+python-pptx==1.0.2
+reportlab==4.5.1
+pyinstaller==6.19.0
